@@ -1,1 +1,1 @@
-Dépôt en ligne de notebooks d'application du programme de NSI consultables, modifiables, exécutables puis téléchargeables. Mis à disposition par des enseignants de NSI de l'académie d'Orléans-Tours dans le cadre de la continuité pédagogique. Pour ouvrir un environnement jupyter en ligne, c'est par ici :
+Dépôt en ligne de notebooks d'application du programme de NSI consultables, modifiables, exécutables puis téléchargeables. Pour ouvrir un environnement jupyter en ligne, c'est par ici :
